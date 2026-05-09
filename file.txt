@@ -1,0 +1,7 @@
+My first Git file
+new change
+rajesh wants to devops engineer
+rajesh new
+branch work
+temporary work
+reset
