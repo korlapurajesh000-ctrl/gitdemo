@@ -1,7 +1,2 @@
-My first Git file
-new change
-rajesh wants to devops engineer
-rajesh new
-branch work
-temporary work
-reset
+<title>Rajesh become devops engineer and </tittle>
+<p> hi thisi is rajesh i want become operation spicalist and later slowely i became devopas engineer </p>
